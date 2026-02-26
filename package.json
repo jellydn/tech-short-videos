@@ -21,10 +21,10 @@
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
 		"@react-router/dev": "7.13.1",
-		"@types/node": "22.19.11",
+		"@types/node": "22.19.12",
 		"@types/react": "19.2.14",
 		"@types/react-dom": "19.2.3",
-		"autoprefixer": "10.4.24",
+		"autoprefixer": "10.4.27",
 		"postcss": "8.5.6",
 		"tailwindcss": "4.2.1",
 		"typescript": "5.9.3",
